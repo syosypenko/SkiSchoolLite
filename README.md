@@ -2,6 +2,9 @@
 
 Small desktop app for managing a ski school with SQLite and VCL forms.
 
+<img width="454" height="502" alt="Screenshot 2026-02-07 at 01 17 57" src="https://github.com/user-attachments/assets/cef6e12a-21dc-448d-88f1-aa5f3e9dc630" />
+
+
 ## Overview
 Manage:
 - Courses and schedules
@@ -53,3 +56,5 @@ Relationships:
 
 ## Build/Run
 - Build and run from Delphi 12 IDE.
+  <img width="1010" height="640" alt="Screenshot 2026-02-07 at 01 19 14" src="https://github.com/user-attachments/assets/ffbb1992-eea1-4313-9c1c-8e6ba17e15ae" />
+
